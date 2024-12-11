@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.login-container,
+.product-form-container {
+  max-width: 400px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+h2 {
+  text-align: center;
+}
+
+form div {
+  margin-bottom: 15px;
+}
